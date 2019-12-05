@@ -1,0 +1,16 @@
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\RegistratioModelLibrary.dll
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\RegistratioModelLibrary.pdb
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\obj\Debug\RegistratioModelLibrary.csprojAssemblyReference.cache
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\obj\Debug\RegistratioModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\obj\Debug\RegistratioModelLibrary.dll
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\obj\Debug\RegistratioModelLibrary.pdb
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\System.Web.Cors.dll
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\System.Web.Http.dll
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\System.Web.Http.xml
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\sangeetha.lakshmanan\source\repos\RegistrationWEbApiSolution\RegistratioModelLibrary\obj\Debug\RegistratioModelLibrary.csproj.CopyComplete
